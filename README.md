@@ -1,6 +1,6 @@
 # Hi, I'm Henning 👋
 
-M.Sc. Earth Observation & Geoanalysis (JMU Würzburg)· B.Sc. Environmental Sciences (Leuphana University Lüneburg)
+M.Sc. Earth Observation & Geoanalysis (JMU Würzburg) & B.Sc. Environmental Sciences (Leuphana University Lüneburg)
 
 ## About me
 I build ML/DL pipelines for remote sensing and vegetation monitoring. Big Data experience on HPC clusters using Snakemake & Slurm for workflow management.
