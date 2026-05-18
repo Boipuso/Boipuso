@@ -17,5 +17,5 @@ Currently looking for positions in the Hamburg / Schleswig-Holstein area.
 - 🛩️ [DOTA DL Pipeline](https://github.com/Boipuso/DOTA_DL_Pipeline_Assignment) — Faster R-CNN object detection pipeline on aerial imagery (DOTA v2.0)
 - 🌲 [RStoolboxExtensions](https://github.com/Boipuso/RStoolboxExtensions) — R package for supervised land cover classification
 
-## 📫 Contact
+## Contact
 [LinkedIn](https://linkedin.com/in/yourname)
