@@ -9,4 +9,4 @@ Check out some of my projects from my time as a student at the JMU Würzburg in 
 - [RStoolboxExtensions](https://github.com/Boipuso/RStoolboxExtensions) — R package for supervised land cover classification (1st Semester)
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/yourname)
+[LinkedIn](www.linkedin.com/in/henningriecken)
